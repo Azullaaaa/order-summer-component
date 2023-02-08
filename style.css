@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&display=swap');
+
+body {
+    background-color: #D6E1FF;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 20px;
+    height: 697px;
+    width: 450px;
+}
+
+.img {
+    width: 450px;
+    height: 220px;
+    background-color: #382AE1;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Red Hat Display';
+    font-weight: 900;
+    font-size: 28px;
+    text-align: center;
+    color: #1F2E55;
+
+}
+
+
+
+
+.image-icon {
+    display: flex;
+    background-color: rgba(247, 249, 255, 1);
+    border-radius: 11px;
+    padding: 25px;
+    width: 350px;
+    margin: auto;
+    align-items: center;
+}
+
+
+.inbox {
+    border-radius: 11px 11px 0px 0px;
+}
+
+.summer {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #717FA6;
+    text-align: center;
+    width: 354px;
+    margin: auto;
+    margin-top: 17px;
+    padding: 15px;
+
+}
+
+
+
+
+h2 {
+    margin-left: 20px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+    color: #1F2E55;
+    padding: 3px;
+
+}
+
+
+ 
+
+h3 {
+
+    margin-left: 20px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #717FA6;
+    
+
+}
+
+
+button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+h4 {
+    margin-left: 100px;
+    color: rgba(56, 42, 225, 1);
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    
+
+
+
+}
+ 
+button {
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #382AE1;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    margin: 48px;
+}
+
+.cancelBtn {
+    margin: 180px;
+    color: rgba(113, 127, 166, 1);
+}
+
+.order {
+    margin-top: 45px;
+}
